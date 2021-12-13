@@ -11,7 +11,7 @@
 - 💼 &nbsp; Full stack developer who prefers back-end development.
 - 🌱 &nbsp; Hobbies on reading, football, running, swim, fitness and games.
 - ✍️ &nbsp; Watching movies on free time.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
