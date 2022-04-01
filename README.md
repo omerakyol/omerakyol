@@ -8,7 +8,7 @@
 - 🔭 &nbsp; I’m exploring and learning new technologies almost everyday.
 - 🤔 &nbsp; I'm developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Programming and Business Administration.
-- 💼 &nbsp; Full stack developer who prefers back-end development.
+- 💼 &nbsp; Full stack developer who prefers mobile development.
 - 🌱 &nbsp; Hobbies on reading, football, running, swim, fitness and games.
 - ✍️ &nbsp; Watching movies on free time.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -122,7 +122,7 @@
       </td>
       <td width="25%" align="center">
         <span>Azure</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/azure-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg">
       </td>
       <td width="25%" align="center">
         <span>Momentjs</span><br><br><br>
